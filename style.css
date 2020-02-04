@@ -2,10 +2,10 @@ body { max-width: 960px;
        margin: auto;
        background-color: rgb(0, 0, 0);
 }
-h1 { color: rgb(0, 0, 204);
+h1 { color: rgb(204, 122, 0);
 }
-h2 { color: rgb(0, 0, 204);
+h2 { color: rgb(204, 122, 0);
 }
-p { color: rgb(0, 0, 204);
-        }  
+p { color: rgb(204, 122, 0);
+}  
             
